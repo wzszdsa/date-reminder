@@ -1,0 +1,11 @@
+{
+  "name": "纪念日 · 把重要的日子，留在心上",
+  "short_name": "纪念日",
+  "description": "记录那些值得被认真记住的日子。",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#f6f5f1",
+  "lang": "zh-CN",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
